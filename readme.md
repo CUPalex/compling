@@ -4,6 +4,10 @@ https://cupalex.github.io/compling/
 ***
 
 ### Результаты
+
+## Диаграмма
+![](https://github.com/CUPalex/compling/blob/master/diagram.jpg)
+## Таблица
 | Персонаж                           | Вес |
 |------------------------------------|-----|
 | Квиринус Квиррелл                  | 946 |
@@ -201,5 +205,3 @@ https://cupalex.github.io/compling/
 | Абигейл Миртл                      | 1   |
 | Вернон Дурсль                      | 1   |
 
-***
-### Диаграмма 
