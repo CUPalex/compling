@@ -1,13 +1,18 @@
-### Ссылка на граф
+## What is it?
+Analysis and visualization of data of connections between characters in "Haary Potter and the Methods of Rationality" and charater's "weight" in the book.
+
+### Link to the graph
 https://cupalex.github.io/compling/
 
 ***
 
-### Результаты
+### Results
 
-## Диаграмма
+## Diagram
 ![](https://github.com/CUPalex/compling/blob/master/diagram.jpg)
-## Таблица
+## Table
+Number in the right colums is the character's "weight"
+
 | Персонаж                           | Вес |
 |------------------------------------|-----|
 | Квиринус Квиррелл                  | 946 |
